@@ -1,0 +1,6 @@
+[04-Nov-2017 19:54:41 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/comeketo/public_html/user/cardapio.php on line 145
+[04-Nov-2017 19:54:41 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/comeketo/public_html/user/cardapio.php on line 207
+[04-Nov-2017 19:54:41 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/comeketo/public_html/user/cardapio.php on line 309
+[07-Nov-2017 14:39:48 America/New_York] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/comeketo/public_html/user/cardapio.php on line 284
+[08-Nov-2017 13:11:51 America/New_York] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home/comeketo/public_html/user/pedido.php on line 11
+[08-Nov-2017 13:14:20 America/New_York] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home/comeketo/public_html/user/pedido.php on line 11

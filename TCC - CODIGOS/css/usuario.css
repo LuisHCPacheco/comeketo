@@ -1,0 +1,66 @@
+#cor{
+    background: #911212;
+}
+
+#myModal{
+    margin-top: 2%;
+}
+
+.modal-header{
+    background-color: #770909;
+    color: white;
+}
+
+#logo{
+    width: 20%;
+}
+
+.modal-footer{
+    background-color: #770909;
+    color: white;
+}
+
+.estrelas input[type=radio] {
+  display: none;
+}
+
+.estrelas label i.fa:before {
+  content:'\f005';
+  color: #FC0;
+}
+
+.estrelas input[type=radio]:checked ~ label i.fa:before {
+  color: #CCC;
+}
+
+#cmbEmpresa{
+    border-radius: 4px;
+    font-size: 150%;
+}
+
+#cmbLanches{
+    border-radius: 4px;
+    font-size: 150%;
+}
+
+#preco{
+    text-align: right;
+}
+
+#corTabela{
+    margin-left: 1%;
+    background-color: white;
+    border-radius: 4px;
+}
+
+#coluna{
+    text-align: center;
+}
+
+#foto_empresas{
+    width: 100%;
+}
+
+#pesquisaEmp{
+    font-size: 150%;
+}

@@ -1,0 +1,44 @@
+a[href="#top"]{
+    padding:10px;
+    position:fixed;
+    top: 90%;
+    right:40px;
+    display:none;
+    font-size: 30px;
+}
+a[href="#top"]:hover{
+    text-decoration:none;
+}
+
+.tbl tr:nth-child(odd) {
+    background: #911212;
+} 
+
+.tbl tr:nth-child(even) {
+    background: #8c0404;
+}
+
+#conteudo{
+    color: #ffffff;
+}
+
+#conteudo2{
+    color: #ffffff;
+}
+
+#cmbFiltro{
+    border-radius: 4px;
+}
+
+#starNota{
+    width: 100%;
+    float: left;
+}
+
+#link{ 
+    text-decoration:none; 
+}
+
+.icon-bar{
+    color: white;
+}

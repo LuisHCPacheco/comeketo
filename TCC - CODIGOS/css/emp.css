@@ -1,0 +1,63 @@
+#table{
+    font-size: 100%;
+}
+
+#cmbTipo{
+    width: 35%;
+    font-size: 160%;
+}
+
+.form-control{
+    margin-top: 2%;
+}
+
+#corTabela{
+    background-color: white;
+    border-radius: 4px;
+}
+
+#coluna{
+    text-align: center;
+}
+
+#cor{
+    background-color: #911212;
+}
+
+#myModal{
+    margin-top: 2%;
+}
+
+.modal-header{
+    background-color: #770909;
+    color: white;
+}
+
+#logo{
+    width: 20%;
+}
+
+.modal-footer{
+    background-color: #770909;
+    color: white;
+}
+
+#foto_perfil{
+    width: 100%;
+}
+
+#imagem{
+    margin-top: 5%;
+}
+
+#dados{
+    margin-left: 15%;
+}
+
+#titulo{
+    margin-top: 5%;
+}
+
+.btnPerfil{
+    margin-top: 3%;
+}

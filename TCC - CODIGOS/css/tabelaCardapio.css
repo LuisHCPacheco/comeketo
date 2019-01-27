@@ -1,0 +1,76 @@
+#cor{
+    background: #911212;
+}
+
+.modal-header{
+    background-color: #770909;
+    color: white;
+}
+
+#logo{
+    width: 20%;
+}
+
+.modal-footer{
+    background-color: #770909;
+    color: white;
+}
+
+.estrelas input[type=radio] {
+  display: none;
+}
+
+.estrelas label i.fa:before {
+  content:'\f005';
+  color: #FC0;
+}
+
+.estrelas input[type=radio]:checked ~ label i.fa:before {
+  color: #CCC;
+}
+
+#titulo{
+    color: white;
+}
+
+#starNotaCar{
+    width: 30%;
+}
+
+#divisoes{
+    background-color: #911212;
+}
+
+.number-spinner{
+    width: 90%;
+}
+
+#alinhar{
+    text-align: center;
+    color: white;
+}
+
+#alinharTop{
+    text-align: right;
+    color: white;
+}
+
+#alinhar2{
+    text-align: center;
+    font-size: 150%;
+    color: white;
+}
+
+#preco{
+    float: right;
+}
+
+.branco{
+    color: white;
+    font-size: 150%;
+    text-align: center;
+}
+
+#foto_cardapio{
+    width: 75%;
+}

@@ -1,0 +1,119 @@
+.corpo{
+    background-color: white;
+}
+
+#titulo{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.table{
+    margin-right: 3%;
+    margin-top: 3%;
+    text-align: center;
+}
+
+#coluna{
+    background-color: burlywood;
+    color: black;
+    text-align: center;
+}
+
+#titu{
+    border: 2px;
+    color: red;
+    text-align: center;
+    font-size: 260%;
+}
+
+#texto{
+    font-size: 150%;
+    text-align: center;
+}
+
+.formExcluir{
+    margin-left: 5%;
+}
+
+.excluir{
+    margin-top: 5%;
+    margin-left: 15%;
+    width: 25%;
+    font-size: 120%;
+    margin-bottom: 2%;
+}
+
+#botaoEx{
+    font-size: 135%;
+    margin-left: 2%;
+}
+
+#botaoCad{
+    font-size: 140%;
+    margin-left: 38%;
+    margin-top: 2%;
+    margin-bottom: 1%;
+}
+
+.cad{
+    margin-left: 10%;
+    margin-top: 1%;
+    font-size: 135%;
+}
+
+.gerenLanch{
+    margin-top: 10%;
+    width: 100%;
+}
+
+.panel-group{
+    margin-top: 2%;
+}
+
+#combo{
+    width: 35%;
+    font-size: 150%;
+    margin-left: 3%;
+    margin-top: 1%;
+}
+
+#panelCad{
+    margin-left: 15%;
+    width: 50%;
+}
+
+.cad2{
+    margin-top: 1%;
+    margin-left: 25%;
+    width: 50%;
+}
+
+#identif{
+    margin-top: 8%;
+    text-align: center;
+}
+
+#panelRamo{
+    margin-left: 35%;
+    width: 20%;
+}
+
+#margem{
+    text-align: center;
+    margin-top: 2%;
+}
+
+.com{
+    margin-top: 2%;
+}
+
+#botaoCom{
+    font-size: 130%;
+    margin-top: 2%;
+    margin-left: 1%;
+}
+
+#cardapio{
+    background-color: black;
+}
