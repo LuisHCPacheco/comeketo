@@ -1,1 +1,1 @@
-Site developed for my final high school project.
+Site developed for my final high school project. Project developed in PHP, HTML, CSS and JS.
